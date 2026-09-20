@@ -14,7 +14,7 @@ BQ 的算法刷题归档，收录了在以下平台的原创题解代码：
 
 ```
 .
-├── Luogu/          # 洛谷题目题解
+├── Luogru/          # 洛谷题目题解
 ├── Codeforces/     # Codeforces 题目题解
 ├── PTA/            # PTA 题目题解
 └── README.md
