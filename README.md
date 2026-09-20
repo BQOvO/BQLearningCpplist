@@ -3,8 +3,8 @@
 BQ 的算法刷题归档，收录了在以下平台的原创题解代码：
 
 - **Luogu**（洛谷）
-- **Codeforces**
-- **PTA**（拼题 A）
+- **Codeforces**（cf）
+- **PTA**
 
 ## 说明
 
